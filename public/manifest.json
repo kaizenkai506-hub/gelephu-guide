@@ -1,0 +1,20 @@
+{
+  "name": "Gelephu Guides",
+  "short_name": "Gelephu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F7F5",
+  "theme_color": "#8A3B2F",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
